@@ -1,6 +1,6 @@
 export default async function handler(req, res) {
   // ========== 在这里填你的火山方舟配置 ==========
-  const VOLC_API_KEY = "ark-f1bced0c-ac09-4d7d-9b1f-d2cce4c1b5db-e426b";
+  const VOLC_API_KEY = "xxxxxxxxxxxxxxxx;
   const VOLC_ENDPOINT = "https://ark.cn-beijing.volces.com/api/v3/chat/completions";
   // ============================================
 
